@@ -6,7 +6,7 @@
     "yearRange": "2014-2026",
     "disclaimer": "Τα τεχνικά χαρακτηριστικά των συσκευών αποτελούν δημόσια δεδομένα των κατασκευαστών και χρησιμοποιούνται αποκλειστικά για ενημερωτικούς σκοπούς συμβατότητας.",
     "schema": "id | model | brand | year | screenSize(in) | dimensions{h,w}mm | screenDimensions{h,w}mm | screenType(flat|curved|flat-2.5d) | notch(none|notch|punch-hole|pill|waterdrop|bar) | glassType",
-    "totalDevices": 744,
+    "totalDevices": 760,
     "totalBrands": 31
   },
   "brands": [
@@ -820,6 +820,114 @@
       }
     ],
     "Samsung": [
+      {
+        "id": "galaxy-a57-5g",
+        "model": "Galaxy A57 5G",
+        "brand": "Samsung",
+        "year": 2026,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 161.5,
+          "w": 76.8
+        },
+        "screenDimensions": {
+          "h": 154.0,
+          "w": 71.7
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-victus-plus"
+      },
+      {
+        "id": "galaxy-a37-5g",
+        "model": "Galaxy A37 5G",
+        "brand": "Samsung",
+        "year": 2026,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 162.9,
+          "w": 78.2
+        },
+        "screenDimensions": {
+          "h": 154.6,
+          "w": 72.9
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-victus-plus"
+      },
+      {
+        "id": "galaxy-z-flip8",
+        "model": "Galaxy Z Flip 8",
+        "brand": "Samsung",
+        "year": 2026,
+        "screenSize": 6.9,
+        "dimensions": {
+          "h": 166.9,
+          "w": 75.4
+        },
+        "screenDimensions": {
+          "h": 159.4,
+          "w": 70.3
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "utg"
+      },
+      {
+        "id": "galaxy-z-fold8",
+        "model": "Galaxy Z Fold 8",
+        "brand": "Samsung",
+        "year": 2026,
+        "screenSize": 7.6,
+        "dimensions": {
+          "h": 123.9,
+          "w": 161.4
+        },
+        "screenDimensions": {
+          "h": 117.0,
+          "w": 154.0
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "utg"
+      },
+      {
+        "id": "galaxy-z-fold8-ultra",
+        "model": "Galaxy Z Fold 8 Ultra",
+        "brand": "Samsung",
+        "year": 2026,
+        "screenSize": 8.0,
+        "dimensions": {
+          "h": 158.4,
+          "w": 143.2
+        },
+        "screenDimensions": {
+          "h": 151.2,
+          "w": 136.2
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "utg"
+      },
+      {
+        "id": "galaxy-a27-5g",
+        "model": "Galaxy A27 5G",
+        "brand": "Samsung",
+        "year": 2026,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 162.4,
+          "w": 77.5
+        },
+        "screenDimensions": {
+          "h": 154.9,
+          "w": 72.2
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass5"
+      },
       {
         "id": "galaxy-s26-ultra",
         "model": "Galaxy S26 Ultra",
@@ -2191,6 +2299,42 @@
     ],
     "Xiaomi": [
       {
+        "id": "xiaomi-17-ultra",
+        "model": "Xiaomi 17 Ultra",
+        "brand": "Xiaomi",
+        "year": 2026,
+        "screenSize": 6.9,
+        "dimensions": {
+          "h": 162.9,
+          "w": 77.6
+        },
+        "screenDimensions": {
+          "h": 155.8,
+          "w": 72.5
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "xiaomi-shield-glass-3"
+      },
+      {
+        "id": "xiaomi-17",
+        "model": "Xiaomi 17",
+        "brand": "Xiaomi",
+        "year": 2026,
+        "screenSize": 6.3,
+        "dimensions": {
+          "h": 152.8,
+          "w": 71.5
+        },
+        "screenDimensions": {
+          "h": 146.0,
+          "w": 66.4
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "xiaomi-shield-glass"
+      },
+      {
         "id": "xiaomi-15s-pro",
         "model": "Xiaomi 15S Pro",
         "brand": "Xiaomi",
@@ -2732,6 +2876,42 @@
       }
     ],
     "Redmi": [
+      {
+        "id": "redmi-15c",
+        "model": "Redmi 15C",
+        "brand": "Redmi",
+        "year": 2026,
+        "screenSize": 6.88,
+        "dimensions": {
+          "h": 168.9,
+          "w": 77.5
+        },
+        "screenDimensions": {
+          "h": 161.4,
+          "w": 72.4
+        },
+        "screenType": "flat",
+        "notch": "waterdrop",
+        "glassType": "glass"
+      },
+      {
+        "id": "redmi-a5",
+        "model": "Redmi A5",
+        "brand": "Redmi",
+        "year": 2025,
+        "screenSize": 6.88,
+        "dimensions": {
+          "h": 168.9,
+          "w": 77.5
+        },
+        "screenDimensions": {
+          "h": 161.4,
+          "w": 72.4
+        },
+        "screenType": "flat",
+        "notch": "waterdrop",
+        "glassType": "glass"
+      },
       {
         "id": "redmi-note-15-pro-plus",
         "model": "Redmi Note 15 Pro+",
@@ -6345,6 +6525,24 @@
     ],
     "Google": [
       {
+        "id": "pixel-10a",
+        "model": "Pixel 10a",
+        "brand": "Google",
+        "year": 2026,
+        "screenSize": 6.3,
+        "dimensions": {
+          "h": 153.9,
+          "w": 73.0
+        },
+        "screenDimensions": {
+          "h": 146.7,
+          "w": 67.9
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass7i"
+      },
+      {
         "id": "pixel-10-pro-xl",
         "model": "Pixel 10 Pro XL",
         "brand": "Google",
@@ -6905,6 +7103,24 @@
     ],
     "Oppo": [
       {
+        "id": "oppo-reno16-pro",
+        "model": "Oppo Reno16 Pro",
+        "brand": "Oppo",
+        "year": 2026,
+        "screenSize": 6.83,
+        "dimensions": {
+          "h": 163.0,
+          "w": 75.2
+        },
+        "screenDimensions": {
+          "h": 155.8,
+          "w": 70.1
+        },
+        "screenType": "curved",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass5"
+      },
+      {
         "id": "oppo-find-x9-pro",
         "model": "Oppo Find X9 Pro",
         "brand": "Oppo",
@@ -7464,6 +7680,60 @@
       }
     ],
     "Nothing": [
+      {
+        "id": "nothing-phone-4b",
+        "model": "Nothing Phone (4b)",
+        "brand": "Nothing",
+        "year": 2026,
+        "screenSize": 6.77,
+        "dimensions": {
+          "h": 164.4,
+          "w": 78.2
+        },
+        "screenDimensions": {
+          "h": 157.2,
+          "w": 72.9
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "dragontail-pro"
+      },
+      {
+        "id": "nothing-phone-4a-pro",
+        "model": "Nothing Phone (4a) Pro",
+        "brand": "Nothing",
+        "year": 2026,
+        "screenSize": 6.77,
+        "dimensions": {
+          "h": 163.5,
+          "w": 76.8
+        },
+        "screenDimensions": {
+          "h": 156.3,
+          "w": 71.7
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass5"
+      },
+      {
+        "id": "nothing-phone-4a",
+        "model": "Nothing Phone (4a)",
+        "brand": "Nothing",
+        "year": 2026,
+        "screenSize": 6.77,
+        "dimensions": {
+          "h": 163.5,
+          "w": 76.6
+        },
+        "screenDimensions": {
+          "h": 156.3,
+          "w": 71.5
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass5"
+      },
       {
         "id": "nothing-phone-3",
         "model": "Nothing Phone (3)",
@@ -9492,6 +9762,24 @@
       }
     ],
     "TCL": [
+      {
+        "id": "tcl-k70",
+        "model": "TCL K70",
+        "brand": "TCL",
+        "year": 2026,
+        "screenSize": 6.78,
+        "dimensions": {
+          "h": 166.5,
+          "w": 77.0
+        },
+        "screenDimensions": {
+          "h": 159.0,
+          "w": 71.9
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "glass"
+      },
       {
         "id": "tcl-60-xl",
         "model": "TCL 60 XL",
