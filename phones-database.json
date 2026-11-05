@@ -6,7 +6,7 @@
     "yearRange": "2014-2026",
     "disclaimer": "Τα τεχνικά χαρακτηριστικά των συσκευών αποτελούν δημόσια δεδομένα των κατασκευαστών και χρησιμοποιούνται αποκλειστικά για ενημερωτικούς σκοπούς συμβατότητας.",
     "schema": "id | model | brand | year | screenSize(in) | dimensions{h,w}mm | screenDimensions{h,w}mm | screenType(flat|curved|flat-2.5d) | notch(none|notch|punch-hole|pill|waterdrop|bar) | glassType",
-    "totalDevices": 856,
+    "totalDevices": 864,
     "totalBrands": 31
   },
   "brands": [
@@ -885,6 +885,78 @@
         "screenDimensions": {
           "h": 140.0,
           "w": 64.5
+        },
+        "screenType": "flat",
+        "notch": "pill",
+        "glassType": "ceramic-shield-2"
+      },
+      {
+        "id": "iphone-18",
+        "model": "iPhone 18",
+        "brand": "Apple",
+        "year": 2026,
+        "screenSize": 6.1,
+        "dimensions": {
+          "h": 147.6,
+          "w": 71.5
+        },
+        "screenDimensions": {
+          "h": 140.0,
+          "w": 64.5
+        },
+        "screenType": "flat",
+        "notch": "pill",
+        "glassType": "ceramic-shield-2"
+      },
+      {
+        "id": "iphone-18-plus",
+        "model": "iPhone 18 Plus",
+        "brand": "Apple",
+        "year": 2026,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 160.9,
+          "w": 77.8
+        },
+        "screenDimensions": {
+          "h": 153.0,
+          "w": 70.5
+        },
+        "screenType": "flat",
+        "notch": "pill",
+        "glassType": "ceramic-shield-2"
+      },
+      {
+        "id": "iphone-18-pro",
+        "model": "iPhone 18 Pro",
+        "brand": "Apple",
+        "year": 2026,
+        "screenSize": 6.3,
+        "dimensions": {
+          "h": 150.0,
+          "w": 71.9
+        },
+        "screenDimensions": {
+          "h": 143.0,
+          "w": 65.5
+        },
+        "screenType": "flat",
+        "notch": "pill",
+        "glassType": "ceramic-shield-2"
+      },
+      {
+        "id": "iphone-18-pro-max",
+        "model": "iPhone 18 Pro Max",
+        "brand": "Apple",
+        "year": 2026,
+        "screenSize": 6.9,
+        "dimensions": {
+          "h": 163.4,
+          "w": 78.0
+        },
+        "screenDimensions": {
+          "h": 156.0,
+          "w": 71.5
         },
         "screenType": "flat",
         "notch": "pill",
@@ -6915,6 +6987,96 @@
         "screenType": "LTPO AMOLED",
         "notch": "none",
         "glassType": "Gorilla Glass Victus 2"
+      },
+      {
+        "id": "oneplus-15",
+        "model": "OnePlus 15",
+        "brand": "OnePlus",
+        "year": 2025,
+        "screenSize": 6.78,
+        "dimensions": {
+          "h": 161.4,
+          "w": 76.7
+        },
+        "screenDimensions": {
+          "h": 145.3,
+          "w": 69.8
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-7i"
+      },
+      {
+        "id": "oneplus-15t",
+        "model": "OnePlus 15T",
+        "brand": "OnePlus",
+        "year": 2025,
+        "screenSize": 6.32,
+        "dimensions": {
+          "h": 150.6,
+          "w": 71.8
+        },
+        "screenDimensions": {
+          "h": 135.5,
+          "w": 65.3
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-7i"
+      },
+      {
+        "id": "oneplus-nord-6",
+        "model": "OnePlus Nord 6",
+        "brand": "OnePlus",
+        "year": 2026,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 162.5,
+          "w": 77.5
+        },
+        "screenDimensions": {
+          "h": 146.3,
+          "w": 70.5
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-5"
+      },
+      {
+        "id": "oneplus-nord-ce5",
+        "model": "OnePlus Nord CE5",
+        "brand": "OnePlus",
+        "year": 2025,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 163.6,
+          "w": 76.0
+        },
+        "screenDimensions": {
+          "h": 147.2,
+          "w": 69.2
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-5"
+      },
+      {
+        "id": "oneplus-nord-ce6-lite",
+        "model": "OnePlus Nord CE6 Lite",
+        "brand": "OnePlus",
+        "year": 2026,
+        "screenSize": 6.7,
+        "dimensions": {
+          "h": 165.9,
+          "w": 76.0
+        },
+        "screenDimensions": {
+          "h": 149.3,
+          "w": 69.2
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-3"
       }
     ],
     "Honor": [
@@ -8143,6 +8305,78 @@
         "screenType": "flat",
         "notch": "punch-hole",
         "glassType": "gorilla-victus"
+      },
+      {
+        "id": "pixel-11",
+        "model": "Pixel 11",
+        "brand": "Google",
+        "year": 2026,
+        "screenSize": 6.3,
+        "dimensions": {
+          "h": 152.8,
+          "w": 72.0
+        },
+        "screenDimensions": {
+          "h": 140.0,
+          "w": 65.5
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-victus-2"
+      },
+      {
+        "id": "pixel-11-pro",
+        "model": "Pixel 11 Pro",
+        "brand": "Google",
+        "year": 2026,
+        "screenSize": 6.3,
+        "dimensions": {
+          "h": 152.7,
+          "w": 71.9
+        },
+        "screenDimensions": {
+          "h": 140.0,
+          "w": 65.5
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-victus-2"
+      },
+      {
+        "id": "pixel-11-pro-xl",
+        "model": "Pixel 11 Pro XL",
+        "brand": "Google",
+        "year": 2026,
+        "screenSize": 6.8,
+        "dimensions": {
+          "h": 162.7,
+          "w": 76.5
+        },
+        "screenDimensions": {
+          "h": 149.5,
+          "w": 70.0
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-victus-2"
+      },
+      {
+        "id": "pixel-11-pro-fold",
+        "model": "Pixel 11 Pro Fold",
+        "brand": "Google",
+        "year": 2026,
+        "screenSize": 8.0,
+        "dimensions": {
+          "h": 155.2,
+          "w": 150.4
+        },
+        "screenDimensions": {
+          "h": 180.0,
+          "w": 148.0
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-victus-2"
       }
     ],
     "Oppo": [
@@ -8847,6 +9081,78 @@
         "screenType": "flat",
         "notch": "punch-hole",
         "glassType": "gorilla-victus"
+      },
+      {
+        "id": "oppo-find-x8-ultra",
+        "model": "Oppo Find X8 Ultra",
+        "brand": "Oppo",
+        "year": 2025,
+        "screenSize": 6.82,
+        "dimensions": {
+          "h": 163.1,
+          "w": 76.8
+        },
+        "screenDimensions": {
+          "h": 146.8,
+          "w": 69.9
+        },
+        "screenType": "curved",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-victus-2"
+      },
+      {
+        "id": "oppo-find-x8s",
+        "model": "Oppo Find X8S",
+        "brand": "Oppo",
+        "year": 2025,
+        "screenSize": 6.32,
+        "dimensions": {
+          "h": 150.6,
+          "w": 71.8
+        },
+        "screenDimensions": {
+          "h": 135.5,
+          "w": 65.3
+        },
+        "screenType": "flat",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-7i"
+      },
+      {
+        "id": "oppo-reno-14-pro",
+        "model": "Oppo Reno 14 Pro",
+        "brand": "Oppo",
+        "year": 2025,
+        "screenSize": 6.83,
+        "dimensions": {
+          "h": 163.4,
+          "w": 77.0
+        },
+        "screenDimensions": {
+          "h": 147.1,
+          "w": 70.1
+        },
+        "screenType": "curved",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-7i"
+      },
+      {
+        "id": "oppo-reno-13-pro",
+        "model": "Oppo Reno 13 Pro",
+        "brand": "Oppo",
+        "year": 2024,
+        "screenSize": 6.83,
+        "dimensions": {
+          "h": 162.73,
+          "w": 76.55
+        },
+        "screenDimensions": {
+          "h": 146.5,
+          "w": 69.7
+        },
+        "screenType": "curved",
+        "notch": "punch-hole",
+        "glassType": "gorilla-glass-7i"
       }
     ],
     "Nothing": [
