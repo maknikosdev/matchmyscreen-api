@@ -6,7 +6,7 @@
     "yearRange": "2014-2026",
     "disclaimer": "Τα τεχνικά χαρακτηριστικά των συσκευών αποτελούν δημόσια δεδομένα των κατασκευαστών και χρησιμοποιούνται αποκλειστικά για ενημερωτικούς σκοπούς συμβατότητας.",
     "schema": "id | model | brand | year | screenSize(in) | dimensions{h,w}mm | screenDimensions{h,w}mm | screenType(flat|curved|flat-2.5d) | notch(none|notch|punch-hole|pill|waterdrop|bar) | glassType",
-    "totalDevices": 864,
+    "totalDevices": 873,
     "totalBrands": 31
   },
   "brands": [
